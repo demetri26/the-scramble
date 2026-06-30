@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 
 /* ─── Golfer Roster ──────────────────────────────────────
    Modern roster: ratings derived from real 2025/26 PGA Tour &
